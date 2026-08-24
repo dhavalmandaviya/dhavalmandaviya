@@ -1,8 +1,4 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer%20%F0%9F%9A%80;Open%20Source%20Enthusiast%20%E2%AD%90)](https://git.io/typing-svg)
-
-</div>
 
 # 👋 Hi, I'm Dhaval Mandaviya!
 
@@ -12,21 +8,10 @@
 
 - 🔭 **Currently building:** MACUI - CSS Library
 - 🌱 **Learning:** Backend programming
-- 👨‍💻 All of my projects are available at [https://dhavalmandaviya.github.io/](https://dhavalmandaviya.github.io/)
+- 👨‍💻 **All of my projects are available at** [https://github.io/dhavalmandaviya](https://github.io/dhavalmandaviya)
+- 📗 **My Portfolio Website:** [https://dhavalmandaviya.github.io/](https://dhavalmandaviya.github.io/)
 
-## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dhaval Mandaviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhavalmandaviya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhavalmandaviya&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalmandaviya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🤝 Connect With Me
 
