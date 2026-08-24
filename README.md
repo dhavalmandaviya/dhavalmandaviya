@@ -8,7 +8,7 @@
 
 - 🔭 **Currently building:** MACUI - CSS Library
 - 🌱 **Learning:** Backend programming
-- 👨‍💻 **All of my projects are available at** [https://github.io/dhavalmandaviya](https://github.io/dhavalmandaviya)
+- 👨‍💻 **All of my projects are available at** [https://github.com/dhavalmandaviya](https://github.io/dhavalmandaviya)
 - 📗 **My Portfolio Website:** [https://dhavalmandaviya.github.io/](https://dhavalmandaviya.github.io/)
 
 ## Languages and Tools:
