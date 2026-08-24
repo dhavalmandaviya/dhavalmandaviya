@@ -1,18 +1,17 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-y01RPjX9Dig51ttpgurlliv0yqu1lifjmshEaLHu402_bsFVjyK5F9Qso1jjm-p0OmCnbUB2hNYfRqs_CHCpgK_QAep32Lh5cNl-2-7SCCVCkjIYCz4gL7L1I54QxahxWuT191tAKCwt0dJGZ9Ni6UXzv0D4mPfU2BROcnQyFAJIBW3usYKxVSXFC2Q/s16000/wepik--20240604064255VO1d.png)
 <h1 align="center">Hi 👋, I'm Dhaval Mandaviya</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [MACUI](https://developerdhaval.github.io/macui.html)
+- 🔭 I’m currently working on [MACUI](https://dhavalmandaviya.github.io/macui.html)
 
 - 🌱 I’m currently learning **CSS Large Library**
 
 - 🤝 I’m looking for help with **Frontend Developers**
 
-- 👨‍💻 All of my projects are available at [https://developerdhaval.github.io/](https://developerdhaval.github.io/)
+- 👨‍💻 All of my projects are available at [https://dhavalmandaviya.github.io/](https://dhavalmandaviya.github.io/)
 
 - 📫 How to reach me **devloperdhaval@gmail.com**
 
-- 📄 Know about my experiences [https://developerdhaval.github.io/#experience](https://developerdhaval.github.io/#experience)
+- 📄 Know about my experiences [https://dhavalmandaviya.github.io/#experience](https://dhavalmandaviya.github.io/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
