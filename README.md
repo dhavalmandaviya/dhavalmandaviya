@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dhaval Mandaviya!
 
-> I’m Dhaval Mandaviya, with a strong passion for Frontend Web Development and UI/UX Design.  I specialize in creating modern, responsive, and user-focused web interfaces, combining clean code with thoughtful design.
+> I’m Dhaval Mandaviya, a BCA student at Darshan University, Rajkot. With a strong passion for Frontend Web Development and UI/UX Design.  I specialize in creating modern, responsive, and user-focused web interfaces, combining clean code with thoughtful design.
 
 ## 🌟 About Me
 
